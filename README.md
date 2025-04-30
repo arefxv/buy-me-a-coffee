@@ -1,4 +1,4 @@
-# ☕ Buy Me A Coffee (Vyper)
+# Buy Me A Coffee (Vyper)
 
 My first Vyper smart contract — a simple and minimal donation system.
 
